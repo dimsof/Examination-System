@@ -1,0 +1,69 @@
+QUESTION
+{
+	TYPE MC
+	CODE MCQ1
+	DESCR What is the capital of France?
+	ANSWERS London,Paris,Rome,Berlin
+	CORRECT 2
+}
+QUESTION
+{
+	TYPE MC
+	CODE MCQ2
+	DESCR Which of the following is a mammal?
+	ANSWERS Fish,Cat,Dog,Turtle
+	CORRECT 2 3
+}
+QUESTION
+{
+	TYPE MC
+	CODE MCQ3
+	DESCR Who is the current president of the USA?
+	ANSWERS Barack_Obama,Donald_Trump,Joe_Biden,George_Bush
+	CORRECT 3
+}
+QUESTION
+{
+	TYPE WORD
+	CODE SWQ1
+	DESCR What is the capital of Italy?
+	WORD Rome
+}
+QUESTION
+{
+	TYPE WORD
+	CODE SWQ2
+	DESCR What is the color of the sky?
+	WORD Blue
+}
+QUESTION
+{
+	TYPE WORD
+	CODE SWQ3
+	DESCR What is the opposite of 'hot'?
+	WORD Cold
+}
+QUESTION
+{
+	TYPE FILL
+	CODE FBQ1
+	DESCR Roses are ?, violets are ?
+	WORDS red,blue
+	CORRECTORD red,blue
+}
+QUESTION
+{
+	TYPE FILL
+	CODE FBQ2
+	DESCR ? is bigger than ?
+	WORDS Bulgaria,Greece
+	CORRECTORD Greece,Bulgaria
+}
+QUESTION
+{
+	TYPE FILL
+	CODE FBQ3
+	DESCR The sum of the numbers ? and ? is ?.
+	WORDS 7  3  4
+	CORRECTORD 3 4 7
+}
