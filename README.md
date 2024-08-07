@@ -30,6 +30,7 @@ File Operations
 
 Read Files: Loads examinees, questions, and answers from text files at the start of the program.
 Write Files: Saves examinees, questions, and answers to text files before exiting the program.
-Display Percentage of Correct Answers per Question
-Display Percentage of Correct Answers per Examinee
-Java Features Used: Object-Oriented Programming
+Display Percentage of Correct Answers per Question.
+Display Percentage of Correct Answers per Examinee.
+Java Features Used: Object-Oriented Programming.
+
