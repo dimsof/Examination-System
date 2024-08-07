@@ -25,3 +25,11 @@ o	Ensures data is loaded into the system at startup.
 7.	CreateFileApp Class
 o	Contains methods to write examinees, questions, and answers to text files.
 o	Ensures data is saved for future use before the program exits.
+
+File Operations
+
+Read Files: Loads examinees, questions, and answers from text files at the start of the program.
+Write Files: Saves examinees, questions, and answers to text files before exiting the program.
+Display Percentage of Correct Answers per Question
+Display Percentage of Correct Answers per Examinee
+Java Features Used: Object-Oriented Programming
