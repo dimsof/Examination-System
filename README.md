@@ -1,5 +1,5 @@
 Project Description: Examination System
-Overview
+
 This program is designed to manage an examination system where multiple-choice, fill-in-the-blanks, and single-word questions can be stored and evaluated for multiple examinees. The system allows adding new examinees, questions, and answers, and provides functionalities to display the stored data and calculate various statistics related to the performance of examinees. It includes features for reading from and writing to files, ensuring persistent storage of data.
 
 Classes and Their Responsibilities
